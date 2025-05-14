@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reondaze-a" alt="reondaze-a" /></a> </p>
 
-- 🔭 I’m currently working on [Spots Gallery](https://github.com/reondaze-a/se_project_spots)
+- 🔭 I’m currently working on [Spots Gallery](https://github.com/reondaze-a/spots_project)
 
 - 🌱 I’m currently learning **JavaScript, Python**
 
