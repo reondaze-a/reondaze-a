@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reondaze-a" alt="reondaze-a" /></a> </p>
 
-- 🔭 I’m currently working on [What to Wear?](https://github.com/reondaze-a/se_project_react)
+- 🔭 I’m currently working on [Fresh Life](https://github.com/reondaze-a/fresh-life-repo)
 
 - 🌱 I’m currently learning **Next.js, TypeScript, MongoDB, Keystone, Prisma, MySQL**
 
