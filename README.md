@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [What to Wear?](https://github.com/reondaze-a/se_project_react)
 
-- 🌱 I’m currently learning **React.js, Express, TypeScript, MongoDB**
+- 🌱 I’m currently learning **Next.js, TypeScript, MongoDB, Keystone, Prisma, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://reondaze-a.github.io/](https://reondaze-a.github.io/)
 
