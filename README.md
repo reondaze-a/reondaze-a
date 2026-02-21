@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reondaze-a&label=Profile%20views&color=0e75b6&style=flat" alt="reondaze-a" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reondaze-a" alt="reondaze-a" /></a> </p>
 
 - 🔭 I’m currently working on [Fresh Life](https://github.com/reondaze-a/fresh-life-repo)
 
