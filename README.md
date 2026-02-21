@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Fresh Life](https://github.com/reondaze-a/fresh-life-repo)
 
-- 🌱 I’m currently learning **Next.js, TypeScript, MongoDB, Keystone, Prisma, MySQL**
+- 🌱 I’m currently learning **Next.js, TypeScript, Power Automate, Power Platform**
 
 - 👨‍💻 All of my projects are available at [https://reondaze-a.github.io/](https://reondaze-a.github.io/)
 
